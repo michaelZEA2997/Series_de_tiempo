@@ -1,0 +1,12 @@
+days_train: 365
+order:
+- 1
+- 1
+- 1
+seasonal_order:
+- 1
+- 1
+- 1
+- 24
+test_hours: 48
+usar_exogena: true

@@ -1,0 +1,7 @@
+# Ignorar datasets pesados según pautas de DVC
+xm_demanda.csv
+train.csv
+test.csv
+mlruns/
+__pycache__/
+*.png
